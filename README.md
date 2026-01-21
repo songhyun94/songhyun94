@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SONG_GARDEN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=SONG_GARDEN&fontSize=90)
 
 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94)](https://github.com/깃허브아이디/github-readme-stats)
