@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=CODE PLANTING&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=CODE_PLANTING&fontSize=60)
 
 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94)](https://github.com/깃허브아이디/github-readme-stats)
