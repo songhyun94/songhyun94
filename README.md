@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=CODE_PLANTING&fontSize=60)
 
-🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94)](https://github.com/깃허브아이디/github-readme-stats)
 
+🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -20,8 +19,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
-
-
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songhyun94)
 
 
 
