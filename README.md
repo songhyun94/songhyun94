@@ -19,7 +19,8 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
-<img src="https://solved.ac/api/v3/badge/solved/songhyun94?refresh=1" />
+<img src="https://solved.ac/api/v3/badge/solved/songhyun94" />
+
 
 
 
