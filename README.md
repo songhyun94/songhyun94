@@ -57,6 +57,19 @@
 ### 🏅 농사 실력 인증서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
 
+<hr>
+
+### 🌱 키워낸 프로젝트
+
+#### 1. BizPortal
+- 멀티테넌트 기반 SaaS 업무 포털
+- 조직별 데이터 분리, 자원 예약, 파일 관리 기능 구현
+- Java, Spring Boot, JPA, MySQL, AWS S3
+- [Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
+
+
+
+
 
 
 
