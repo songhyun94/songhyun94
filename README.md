@@ -49,17 +49,29 @@
 
 ### 🌱 키워낸 프로젝트
 
-#### 1. BizPortal
-- 멀티테넌트 기반 SaaS 업무 포털
-- 조직별 데이터 분리, 자원 예약, 파일 관리 기능 구현
-- Tech: Java, Spring Boot, JPA, MySQL, AWS S3
-- [Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
+### BizPortal
+**전자결재를 포함한 회사 업무 통합 플랫폼**
 
-#### 2. TripInside
-- 국내 관광지 기반 여행 커뮤니티 웹 서비스
-- 여행 코스 공유 게시글 및 동행 모집 게시글 CRUD 기능 구현
-- Tech: Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
-- [Repository](https://github.com/100jnghn/TripInside)
+조직별 데이터 분리 구조를 갖춘 멀티테넌트 환경에서  
+공유자원 예약 및 공유 클라우드 기능을 구현했습니다.
+
+**Tech**  
+Java, Spring Boot, JPA, MySQL, AWS S3
+
+[Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
+
+---
+
+### TripInside
+**국내 관광지 기반 여행 커뮤니티 웹 서비스**
+
+여행 코스 공유 게시글과 동행 모집 게시글 기능을 중심으로  
+커뮤니티형 웹 서비스를 구현했습니다.
+
+**Tech**  
+Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
+
+[Repository](https://github.com/100jnghn/TripInside)
 
 <hr>
 
