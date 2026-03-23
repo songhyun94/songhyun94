@@ -3,23 +3,25 @@
 
 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
 
-🌾 거둬들인 작물
+---
+
+### 🌾 거둬들인 작물
 
 
-Frontend
+**Frontend**
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
-Backend
+**Backend**
 ![자바](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-Infra & DevOps
+**Infra & DevOps**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -27,7 +29,7 @@ Infra & DevOps
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-Tools / Collaboration
+**Tools / Collaboration**
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -35,15 +37,22 @@ Tools / Collaboration
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-📒 재배 일지
+<br>
+---
+
+### 📒 재배 일지
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 
+<br>
+---
 
-🧪 토양 분석
+### 🧪 토양 분석
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
+<br>
+---
 
-🏅 농사 실력 인증서
+### 🏅 농사 실력 인증서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
 
 
