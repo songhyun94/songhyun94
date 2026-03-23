@@ -5,7 +5,7 @@
 안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.
 
 
-<br>
+
 
 ## 🌾 거둬들인 작물
 
@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
+
 
 
 ## 🌱 키워낸 프로젝트
@@ -60,7 +60,7 @@ Java, Spring Boot, JPA, MySQL, AWS S3
 
 [🔗 Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
 
-<br>
+
 
 ### TripInside
 **국내 관광지 기반 여행 커뮤니티 웹 서비스**
@@ -74,19 +74,16 @@ Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
 [🔗 Repository](https://github.com/100jnghn/TripInside)
 
 
-<br>
 
 
 ## 📒 재배 일지
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 
-<br>
 
 
 ## 🧪 토양 분석
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
-<br>
 
 
 ## 🏅 농사 실력 인증서
