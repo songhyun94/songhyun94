@@ -64,15 +64,14 @@
 #### 1. BizPortal
 - 멀티테넌트 기반 SaaS 업무 포털
 - 조직별 데이터 분리, 자원 예약, 파일 관리 기능 구현
-- Java, Spring Boot, JPA, MySQL, AWS S3
+- Tech: Java, Spring Boot, JPA, MySQL, AWS S3
 - [Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
 
-<br>
 #### 2. TripInside
 - 국내 관광지 기반 여행 커뮤니티 웹 서비스
 - 여행 코스 공유 게시글 및 동행 모집 게시글 CRUD 기능 구현
-- Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
-- [Repository](https://github.com/100jnghn/TripInside).
+- Tech: Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
+- [Repository](https://github.com/100jnghn/TripInside)
 
 
 
