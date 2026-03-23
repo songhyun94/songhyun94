@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=CODE_PLANTING&fontSize=60)
+# 고송현 | Backend Developer
+
+![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=씨앗처럼 작은 아이디어를 서비스 기능으로 구현하고,  
+안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.&fontSize=30)
 
 
 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
