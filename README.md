@@ -1,18 +1,13 @@
 # 고송현 | Backend Developer
 
+
 씨앗처럼 작은 아이디어를 서비스 기능으로 구현하고,  
 안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.
 
 ---
 
-### 🌾 거둬들인 작물
+## 🌾 거둬들인 작물
 
-
-#### Frontend  
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
 #### Backend  
@@ -32,6 +27,12 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
+#### Frontend  
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
 #### Tools / Collaboration
 
@@ -44,7 +45,7 @@
 
 <hr>
 
-### 🌱 키워낸 프로젝트
+## 🌱 키워낸 프로젝트
 
 ### BizPortal
 **전자결재를 포함한 회사 업무 통합 플랫폼**
@@ -55,34 +56,34 @@
 **Tech**  
 Java, Spring Boot, JPA, MySQL, AWS S3
 
-[Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
+[🔗 Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
 
 ---
 
 ### TripInside
 **국내 관광지 기반 여행 커뮤니티 웹 서비스**
 
-여행 코스 공유 게시글과 동행 모집 게시글 기능을 중심으로  
-커뮤니티형 웹 서비스를 구현했습니다.
+여행 코스 공유와 동행 모집 게시글 기능을 중심으로  
+사용자 간 여행 정보를 나누는 커뮤니티 서비스를 구현했습니다.
 
 **Tech**  
 Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
 
-[Repository](https://github.com/100jnghn/TripInside)
+[🔗 Repository](https://github.com/100jnghn/TripInside)
 
 <hr>
 
-### 📒 재배 일지
+## 📒 재배 일지
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 
 <hr>
 
-### 🧪 토양 분석
+## 🧪 토양 분석
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
 <hr>
 
-### 🏅 농사 실력 인증서
+## 🏅 농사 실력 인증서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
 
 
