@@ -5,7 +5,7 @@
 안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.
 
 
-
+---
 
 ## 🌾 거둬들인 작물
 
@@ -45,7 +45,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
+---
 
 ## 🌱 키워낸 프로젝트
 
@@ -74,17 +74,17 @@ Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
 [🔗 Repository](https://github.com/100jnghn/TripInside)
 
 
-
+---
 
 ## 📒 재배 일지
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 
-
+---
 
 ## 🧪 토양 분석
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
-
+---
 
 ## 🏅 농사 실력 인증서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
