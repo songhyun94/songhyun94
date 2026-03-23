@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=Go%20Songhyun%20%7C%20Backend%20Developer&fontSize=30)
+# 고송현 | Backend Developer
 
 씨앗처럼 작은 아이디어를 서비스 기능으로 구현하고,  
 안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.
-
-
-🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 🌻 
 
 ---
 
