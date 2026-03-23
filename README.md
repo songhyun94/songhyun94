@@ -44,21 +44,6 @@
 
 <hr>
 
-### 📒 재배 일지
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
-
-<hr>
-
-### 🧪 토양 분석
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
-
-<hr>
-
-### 🏅 농사 실력 인증서
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
-
-<hr>
-
 ### 🌱 키워낸 프로젝트
 
 #### 1. BizPortal
@@ -72,6 +57,22 @@
 - 여행 코스 공유 게시글 및 동행 모집 게시글 CRUD 기능 구현
 - Tech: Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
 - [Repository](https://github.com/100jnghn/TripInside)
+
+<hr>
+
+### 📒 재배 일지
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
+
+<hr>
+
+### 🧪 토양 분석
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
+
+<hr>
+
+### 🏅 농사 실력 인증서
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
+
 
 
 
