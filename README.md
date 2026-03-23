@@ -4,7 +4,7 @@
 씨앗처럼 작은 아이디어를 서비스 기능으로 구현하고,  
 안정적으로 운영될 수 있는 구조를 고민하는 백엔드 개발자입니다.
 
----
+<br>
 
 ## 🌾 거둬들인 작물
 
@@ -58,7 +58,7 @@ Java, Spring Boot, JPA, MySQL, AWS S3
 
 [🔗 Repository](https://github.com/Biz-portal-by-toUs/mlp-enterprise-approval-system)
 
----
+<br>
 
 ### TripInside
 **국내 관광지 기반 여행 커뮤니티 웹 서비스**
@@ -71,17 +71,17 @@ Java, Spring Boot, JPA, MySQL, Thymeleaf, JavaScript
 
 [🔗 Repository](https://github.com/100jnghn/TripInside)
 
-<hr>
+<br>
 
 ## 📒 재배 일지
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=songhyun94)](https://github.com/songhyun94)
 
-<hr>
+<br>
 
 ## 🧪 토양 분석
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyun94&layout=compact)](https://github.com/songhyun94/github-readme-stats)
 
-<hr>
+<br>
 
 ## 🏅 농사 실력 인증서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdgus0319)](https://solved.ac/thdgus0319)
