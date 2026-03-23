@@ -1,5 +1,3 @@
-# 고송현 | Backend Developer
-
 ![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=Go%20Songhyun%20%7C%20Backend%20Developer&fontSize=30)
 
 씨앗처럼 작은 아이디어를 서비스 기능으로 구현하고,  
